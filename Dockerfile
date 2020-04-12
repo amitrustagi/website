@@ -1,0 +1,2 @@
+FROM artgi/webapp
+ADD .
